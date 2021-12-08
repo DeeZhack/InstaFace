@@ -1,4 +1,4 @@
-#Compiled By Ahmad Riswanto
+#Compiled By Aang Ardiansyah-XD
 #Facebook : Saya Aang & Why Aang Ardiansyah
 #WhatsApp : 089524163441
 import marshal
